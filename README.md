@@ -127,7 +127,7 @@ npm start
 
 # ⚠️ WARNING
 
-*WhatsApp bot is against WhatsApp usage policy. And it offends the genius @Mark Zuckerberg. Anyway, it doesn't offend the whatsApp users, which is ironical, what is Meta protecting us from ? Oh! I forgot, spam and abuse, data privay too, so yeah it's serious. **DO NOT SPAM** , **DEPLOY THE BOT YOURSELF, that is if you don't wanna be cooked, you only control what you allow**. And deploy at your own risk, I almost forgot that, naah! this doesn't bun you, it's officiaal official. No it's not but it's still doesn't bun you, if it does then the problem is you genius.*
+*WhatsApp bot is against WhatsApp usage policy. And it offends the genius @Mark Zuckerberg. Anyway, it doesn't offend the whatsApp users, which is ironical, what is Meta protecting us from ? Oh! I forgot, spam and abuse, data privay too, so yeah it's serious. **DO NOT SPAM** , **DEPLOY THE BOT YOURSELF, that is if you don't wanna be cooked, you only control what you allow**. And deploy at your own risk, I almost forgot that, naah! this doesn't ban you, it's officiaal official. No it's not but it's still doesn't ban you, if it does then the problem is you genius.*
 
 # 🛠 USAGE 
 **NOTE** no prefix needed to evoke any bot commands, this 2026 what do you expect ? 
